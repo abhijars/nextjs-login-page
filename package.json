@@ -1,0 +1,25 @@
+{
+  "name": "nextjs-login-app",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "post-update": "npm upgrade --latest"
+  },
+  "dependencies": {
+    "@hookform/resolvers": "^2.7.1",
+    "bcryptjs": "^2.4.3",
+    "express-jwt": "^6.1.0",
+    "jsonwebtoken": "^8.5.1",
+    "next": "^12.1.6",
+    "prop-types": "^15.7.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-hook-form": "^7.12.1",
+    "rxjs": "^7.3.0",
+    "yup": "^0.32.9"
+  },
+  "keywords": [],
+  "description": "abhijeet"
+}
